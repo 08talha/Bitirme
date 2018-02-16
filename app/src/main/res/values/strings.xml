@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bitirme</string>
+    <string name="btnDriveText">koşmak</string>
+    <string name="btnConnectText">Bağlamak için basın</string>
+    <string name="btnOffline">Çevrimdışı mod</string>
+    <string name="outputText"></string>
+    <string name="settings_title">Ayarlar</string>
+    <string name="checkbox_coordinates_text">Koordinatları göster</string>
+    <string name="checkbox_coordinates_summary">Koordinat görünümünü devre dışı bırakabilirsiniz.</string>
+    <string name="checkbox_x_text">X</string>
+    <string name="checkbox_x_summary">X değerini devre dışı bırakabilirsiniz</string>
+    <string name="checkbox_y_text">Y</string>
+    <string name="checkbox_y_summary">Y değerini devre dışı bırakabilirsiniz</string>
+    <string name="checkbox_z_text">Z</string>
+    <string name="checkbox_z_summary">Z değerini devre dışı bırakabilirsiniz</string>
+    <string name="checkbox_offlineMode_text">Çevrimdışı mod</string>
+    <string name="checkbox_offlineMode_summary">Uygulamayı çevrimdışı modda kullanabilirsiniz</string>
+    <string name="crash_message">Robotino çöktü!</string>
+    <string name="connected_message">Sunucuya bağlandı!</string>
+    <string name="finish_dialog_title">Cihazın jiroskopu yok!</string>
+    <string name="finish_dialog_message">Tamam düğmesine bastığınızda uygulama sona erer</string>
+    <string name="ok_button">OK</string>
+    <string name="connect_to_server_message">Sunucuya bağlanma&#8230;</string>
+</resources>

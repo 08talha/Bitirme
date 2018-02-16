@@ -1,0 +1,7 @@
+#Thu Feb 15 11:34:56 EET 2018
+base.0=C\:\\Users\\TaLha\\Desktop\\Bitirme\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_26416e122deec5d3705d19c229c079eb1337e9ea
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\TaLha\\Desktop\\Bitirme\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_11bec7cfa8b95a82de87779b048ac8e41f0ad8ec\\classes.dex
+base.1=C\:\\Users\\TaLha\\Desktop\\Bitirme\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_11bec7cfa8b95a82de87779b048ac8e41f0ad8ec
+file.0=C\:\\Users\\TaLha\\Desktop\\Bitirme\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_26416e122deec5d3705d19c229c079eb1337e9ea\\classes.dex

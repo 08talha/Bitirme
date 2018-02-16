@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\Desktop\Bitirme\app\src\main\java\rec_robotino_api2_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510df5b0010aca5431d8bd490244cfa4c2a990cb">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\rec_robotino_api2_java_79eb16cc38eac418d902a7a28bd4035370183fb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.android\build-cache\fc4c653843c3ff4f264077671c0c72ba21e7cadd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\classes_ec72da6fcee45ce32725ae409919d92cfb7ff10d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.android\build-cache\4afe7e7f9bea1a3c1e6c80c1f1ce3066921d4a3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\classes_c321eac2d3f7f7e90c72863cc7d413ba0993028d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_26416e122deec5d3705d19c229c079eb1337e9ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TaLha\Desktop\Bitirme\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_28b83141f15782a55ad6d625a4bc9f4c4ded65fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\Desktop\Bitirme\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\android-support-v4_28b83141f15782a55ad6d625a4bc9f4c4ded65fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.android\build-cache\2604539aea73c6bab0bbe19b4ab6a021e3d10e96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\classes_e1b2dd531912a66d4e82066a53192db8c9412068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.6.2\31fb4bf50b62daadee5e94f39679812ad8a9ae00\socket.io-client-0.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31fb4bf50b62daadee5e94f39679812ad8a9ae00">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\socket.io-client-0.6.2_2d969757e9489a679ad7dea27be0117192a6d490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_e8e6f3f431d5e255655503584510585c73d74e23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.android\build-cache\3f6227512e95642bea6bf711d2e4c74c98988a6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\classes_bd088021e8faff7aa88356415e329e0ce2a383d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\okio-1.6.0_49188d4f5504554832377298b709589818d0c329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.android\build-cache\b4247ad4ed6fee1f9fc770439ae1096df4ec8700\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\classes_873abec97bc6ca449a31705244922683363dee1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.android\build-cache\2bb048db7019f4d3b5c3b330ef38b877d358bb53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\classes_3d8caa1f57bd454978b9173736a7eabfb99b67d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.5.0\e9753b7dcae5deca92e871c5c759067070b07bc\okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.5.0_7a4f1339230552c5213af95bbf3d7eb8fa4844b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.android\build-cache\34b36b9a5f20b2bdac43e5a15886e3ddddef701d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\classes_abd2224f4f3c53940069fe8be9b40a49174eb4bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\0.6.2\939f90d47c800626d5b0a4e7f89f98b3dde61dc6\engine.io-client-0.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="939f90d47c800626d5b0a4e7f89f98b3dde61dc6">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\engine.io-client-0.6.2_c42bf28d0f1c22cd997b988dea9bd65fe1dd8934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_57e8b031875bf2c19c8754865d99da7ece87ca57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.android\build-cache\82d5570220656467b98fc184f6a1aa82bf05bac8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\classes_82b7b1e35132adb85f25678451add8a82b6fbd5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_bfed1408cdf3b0b45847fc30df145aeed5341e84.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="277c4f557b4abad8dc238568d3657c84b526e7e0">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_11bec7cfa8b95a82de87779b048ac8e41f0ad8ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.android\build-cache\ce35e4a35135638044f2aca6ac18488a41d6a0ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\classes_e39ed7344452fbad919da7846ebee197fa97889a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TaLha\.android\build-cache\1d2460cc04e612a6909b4c1fc32108e68794dbe3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\pre-dexed\debug\classes_6c3ce9414cbe293ee2f80803a6ac804844b0b082.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TaLha\Desktop\Bitirme\app\src\main\java\rec_robotino_api2_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510df5b0010aca5431d8bd490244cfa4c2a990cb">
+        <dex dex="C:\Users\TaLha\Desktop\Bitirme\app\build\intermediates\transforms\dex\debug\folders\1000\2\rec_robotino_api2_java_79eb16cc38eac418d902a7a28bd4035370183fb2\classes.dex" />
+    </item>
+
+</items>
